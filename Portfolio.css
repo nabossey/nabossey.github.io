@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color:  black;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+  }
+  
+  a{
+    margin-right: 50px;
+  }
+
+a:hover{
+    color: red;
+}
+h2{
+    margin-right: 10px;
+}
